@@ -1,7 +1,7 @@
 {
   "name": "aaipa",
    "version": "1.1.2",
-    "sourceImage": "https://ipalibraryrepo.ru/icons/icon.png",
+    "sourceImage": "https://github.com/PoZi268/apple-arcade-ipa/blob/main/photo_2023-12-01_22-00-24.jpg",
     "sourceUnlockHash": "ad4334553eee04db0d97a0bec1b11c49",
     "sourceAuthor": "Apple Arcade Ipa",
     "sourceLinkTitle": "@applearcadeipa",
